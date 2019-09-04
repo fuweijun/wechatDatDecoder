@@ -1,0 +1,9 @@
+{
+  "name": "wechatDatDecoder",
+  "version": "1.0.0",
+  "description": "解码微信中的DAT格式图片文件",
+  "main": "app.js",
+  "dependencies": {
+    "async": "^3.1.0"
+  }
+}
